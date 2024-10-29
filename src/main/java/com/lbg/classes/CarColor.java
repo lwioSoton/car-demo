@@ -4,5 +4,6 @@ public enum CarColor {
     RED,
     BLUE,
     YELLOW,
-    BLACK
+    BLACK,
+    WHITE
 }
